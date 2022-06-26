@@ -1,0 +1,1 @@
+# dividing-a-num-upto-it-equals-to-0-and-adding-those-quoitents
